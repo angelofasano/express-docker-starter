@@ -1,0 +1,16 @@
+PG_ADMIN
+http://localhost:5050
+
+EMAIL: admin@admin.com
+PASSWORD: root
+
+SERVER -> CREATE SERVER
+GENERAL TAB
+NAME: (DATABASE NAME)
+
+CONNECTION TAB
+HOST: pg_container
+PORT: 5432
+USERNAME: root
+PASSWORD: root
+
